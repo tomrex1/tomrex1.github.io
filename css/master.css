@@ -34,3 +34,17 @@ margin-right: auto;
   margin-right: auto;
   width: 20%;
 }
+
+.center2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12.5%;
+}
+
+.center3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32%;
+}
