@@ -79,7 +79,7 @@ footer{
 
 button{
   background-color: #64E9F2;
-  border: 3px solid black;
+  border: 3px solid #54C0CC;
   padding: 14px;
   width: 125px;
   border-radius: 24px;
@@ -89,4 +89,5 @@ button{
 
 button:hover{
   background: #54C0CC;
+  border: 3px solid #64E9F2;
 }
